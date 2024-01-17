@@ -1,0 +1,28 @@
+.heading {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 10px;
+}
+
+* {
+    margin: 0;
+    padding: 10;
+}
+
+body {
+    background-color: #41B3A3;
+    color: rgb(0, 0, 0);
+}
+
+img {
+    float: right;
+    margin-top: 20px;
+    height: 500px;
+    width: 500px;
+    padding-right: 30px;
+}
+
+/* Blur Effect */
+.blur-background {
+    backdrop-filter: blur(5px);
+}
